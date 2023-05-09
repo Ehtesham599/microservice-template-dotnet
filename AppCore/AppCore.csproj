@@ -1,0 +1,50 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net6.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Autofac" Version="6.4.0" />
+		<PackageReference Include="Autofac.Extensions.DependencyInjection" Version="8.0.0" />
+		<PackageReference Include="AutoMapper" Version="12.0.0" />
+		<PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.0" />
+		<PackageReference Include="FluentValidation" Version="11.1.0" />
+		<PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="10.0.1" />
+		<PackageReference Include="Microsoft.AspNetCore.Http.Abstractions" Version="2.2.0" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.6" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="7.0.0" />
+		<PackageReference Include="Microsoft.Extensions.Localization.Abstractions" Version="7.0.1" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <ProjectReference Include="..\Domain\Domain.csproj" />
+	  <ProjectReference Include="..\Infrastructure\Infrastructure.csproj" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <None Remove="Application\User\" />
+	  <None Remove="Application\User\Commands\" />
+	  <None Remove="Application\User\Queries\" />
+	  <None Remove="Application\User\Commands\Create\" />
+	  <None Remove="Application\User\Commands\Update\" />
+	  <None Remove="Application\User\Commands\Delete\" />
+	  <None Remove="Application\User\Queries\Get\" />
+	  <None Remove="Application\User\Queries\GetById\" />
+	</ItemGroup>
+	<ItemGroup>
+	  <Folder Include="Application\User\" />
+	  <Folder Include="Application\User\Commands\" />
+	  <Folder Include="Application\User\Queries\" />
+	  <Folder Include="Application\User\Commands\Create\" />
+	  <Folder Include="Application\User\Commands\Update\" />
+	  <Folder Include="Application\User\Commands\Delete\" />
+	  <Folder Include="Application\User\Queries\Get\" />
+	  <Folder Include="Application\User\Queries\GetById\" />
+	</ItemGroup>
+</Project>

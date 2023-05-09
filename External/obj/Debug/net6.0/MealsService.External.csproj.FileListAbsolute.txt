@@ -1,0 +1,17 @@
+/Users/ehtesham/Work/Projects/meals-service/MealsService.External/bin/Debug/net6.0/MealsService.External.deps.json
+/Users/ehtesham/Work/Projects/meals-service/MealsService.External/bin/Debug/net6.0/MealsService.External.dll
+/Users/ehtesham/Work/Projects/meals-service/MealsService.External/bin/Debug/net6.0/MealsService.External.pdb
+/Users/ehtesham/Work/Projects/meals-service/MealsService.External/bin/Debug/net6.0/MealsService.Domain.dll
+/Users/ehtesham/Work/Projects/meals-service/MealsService.External/bin/Debug/net6.0/MealsService.Domain.pdb
+/Users/ehtesham/Work/Projects/meals-service/MealsService.External/bin/Debug/net6.0/ar-KW/MealsService.Domain.resources.dll
+/Users/ehtesham/Work/Projects/meals-service/MealsService.External/bin/Debug/net6.0/en-US/MealsService.Domain.resources.dll
+/Users/ehtesham/Work/Projects/meals-service/MealsService.External/obj/Debug/net6.0/MealsService.External.csproj.AssemblyReference.cache
+/Users/ehtesham/Work/Projects/meals-service/MealsService.External/obj/Debug/net6.0/MealsService.External.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ehtesham/Work/Projects/meals-service/MealsService.External/obj/Debug/net6.0/MealsService.External.AssemblyInfoInputs.cache
+/Users/ehtesham/Work/Projects/meals-service/MealsService.External/obj/Debug/net6.0/MealsService.External.AssemblyInfo.cs
+/Users/ehtesham/Work/Projects/meals-service/MealsService.External/obj/Debug/net6.0/MealsService.External.csproj.CoreCompileInputs.cache
+/Users/ehtesham/Work/Projects/meals-service/MealsService.External/obj/Debug/net6.0/MealsService.External.csproj.CopyComplete
+/Users/ehtesham/Work/Projects/meals-service/MealsService.External/obj/Debug/net6.0/MealsService.External.dll
+/Users/ehtesham/Work/Projects/meals-service/MealsService.External/obj/Debug/net6.0/refint/MealsService.External.dll
+/Users/ehtesham/Work/Projects/meals-service/MealsService.External/obj/Debug/net6.0/MealsService.External.pdb
+/Users/ehtesham/Work/Projects/meals-service/MealsService.External/obj/Debug/net6.0/ref/MealsService.External.dll
