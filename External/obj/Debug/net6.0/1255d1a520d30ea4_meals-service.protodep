@@ -1,4 +1,0 @@
-obj/Debug/net6.0/Protos/Meals-serviceGrpc.cs \
-obj/Debug/net6.0/Protos/MealsService.cs: /Users/ehtesham/.nuget/packages/grpc.tools/2.52.0/build/native/include/google/protobuf/wrappers.proto\
- /Users/ehtesham/.nuget/packages/grpc.tools/2.52.0/build/native/include/google/protobuf/timestamp.proto\
- Protos/meals-service.proto
