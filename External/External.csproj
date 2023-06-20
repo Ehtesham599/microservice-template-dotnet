@@ -22,7 +22,6 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <ProjectReference Include="..\MealsService.Domain\MealsService.Domain.csproj" />
 	  <ProjectReference Include="..\Domain\Domain.csproj" />
 	</ItemGroup>
 
